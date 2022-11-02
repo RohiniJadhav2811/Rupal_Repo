@@ -1,0 +1,54 @@
+
+   [
+    {
+        "id": 1,
+        "name": "Domino's",
+        "address": "Pune",
+        "rating": "4.5",
+        "email": "dominos@test.com"
+    },
+    {
+        "id": 2,
+        "name": "Crazy Cheesy",
+        "address": "Mumbai",
+        "rating": "4.5",
+        "email": "crazycheesy@test.com"
+    },
+    {
+        "id": 3,
+        "name": "Feast Restaurant",
+        "address": "Mumbai",
+        "rating": "4.5",
+        "email": "kolhapuri@test.com"
+    },
+    {
+        "id": 4,
+        "name": "Veg Restaurant",
+        "address": "Banglore",
+        "rating": "4.5",
+        "email": "veg@test.com"
+    },
+    {
+        "id": 5,
+        "name": "Lapinoz",
+        "address": "Gujrat",
+        "rating": "4.5",
+        "email": "lapinoz@test.com"
+    },
+    {
+        "id": 6,
+        "name": "Chocolate Room",
+        "address": "Pune",
+        "rating": "4.5",
+        "email": "chocolate@test.com"
+    },
+    {
+        "id": 7,
+        "name": "Aroma",
+        "address": "Banglore",
+        "rating": "4.5",
+        "email": "Aroma@test.com"
+    }
+    
+    
+]
