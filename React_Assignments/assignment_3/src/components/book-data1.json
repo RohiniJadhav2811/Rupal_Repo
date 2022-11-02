@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "name": "Domino's",
+        "address": "Mumbai",
+        "rating": "4.5",
+        "email": "dominos@test.com"
+    },
+    {
+        "id": 3,
+        "name": "Feast Restaurant",
+        "address": "Mumbai",
+        "rating": "4.5",
+        "email": "kolhapuri@test.com"
+    },
+    {
+        "id": 5,
+        "name": "Lapinoz",
+        "address": "Gujrat",
+        "rating": "4.5",
+        "email": "lapinoz@test.com"
+    },
+    {
+        "id": 7,
+        "name": "Aroma",
+        "address": "Banglore",
+        "rating": "4.5",
+        "email": "Aroma@test.com"
+    }
+]
